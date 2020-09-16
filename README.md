@@ -4,7 +4,7 @@
 
 </h1>
 
-ScheduleQ is an Android Application built for teachers. With plenty of customizable options, ScheduleQ is made as simple as possible for the best user experience. ScheduleQ  reminds you of tasks and lets you see exactly what you need to do – so that you can stay productive.
+ScheduleQ is an Android Application designed for teachers. With plenty of customizable options, ScheduleQ is made as simple as possible for the best user experience. ScheduleQ  reminds you of tasks and lets you see exactly what you need to do – so that you can stay productive.
 
 
 ### Contribute
